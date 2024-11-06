@@ -1,0 +1,84 @@
+Problem Statement:
+Create Your Own Wallet Using MetaMask for Crypto Transactions
+
+In this practical exercise, you will:
+
+Set up a new cryptocurrency wallet using MetaMask.
+Learn how to receive and send cryptocurrency using your MetaMask wallet.
+Understand the basics of interacting with blockchain networks using MetaMask.
+Step-by-Step Process:
+1. Install MetaMask Wallet:
+MetaMask is a browser extension that allows you to create and manage cryptocurrency wallets, enabling interaction with Ethereum-based applications and other blockchain networks.
+
+Steps to Install MetaMask:
+
+Open a browser (Chrome, Firefox, Brave, or Edge).
+Go to the official MetaMask website and download the MetaMask extension for your browser.
+Follow the instructions to add the extension to your browser.
+2. Create Your Wallet:
+Once MetaMask is installed, you'll need to create a new wallet for cryptocurrency transactions.
+
+Steps to Create a Wallet:
+
+Click the MetaMask icon in your browser toolbar to open the extension.
+Click Get Started.
+Choose Create a Wallet.
+Set a strong password for your wallet and click Create.
+Backup Your Secret Recovery Phrase: MetaMask will generate a 12-word recovery phrase. This phrase is crucial as it allows you to recover your wallet if you lose access to your account. Write it down and store it safely. Do not share it with anyone.
+Confirm your recovery phrase by selecting the words in the correct order.
+Once confirmed, your wallet is created, and you're ready to start using it.
+3. Connect to a Blockchain Network:
+MetaMask defaults to the Ethereum Mainnet, but you can also connect to test networks or other blockchains like Binance Smart Chain, Polygon, etc.
+
+To connect to the Ethereum Mainnet or Test Networks:
+
+Click the network dropdown at the top of the MetaMask window (usually says Ethereum Mainnet).
+If you want to use a test network (for testing without real crypto), click Show/Hide Test Networks in Settings and enable test networks like Goerli or Ropsten.
+4. Get Crypto in Your Wallet:
+You need cryptocurrency to perform transactions. You can either:
+
+Receive crypto from another wallet.
+Use faucets to get free test crypto on test networks.
+Receiving Cryptocurrency:
+
+To receive cryptocurrency, click Account 1 at the top of MetaMask to copy your wallet address.
+Send this address to someone who wants to send you crypto or use it to withdraw funds from an exchange.
+You will see the balance update after the transaction is complete.
+Getting Test Ether (for Test Networks):
+
+If you're using a test network (e.g., Goerli or Ropsten), you can get free test Ether from faucets.
+Search for a Goerli Faucet or Ropsten Faucet online.
+Enter your MetaMask wallet address on the faucet page, and it will send test Ether to your wallet.
+5. Send Cryptocurrency from MetaMask:
+Now that you have crypto in your wallet, you can send it to another address.
+
+Steps to Send Crypto:
+
+Open MetaMask and click Send.
+Enter the recipient’s wallet address (make sure it's a valid address on the same network).
+Enter the amount of cryptocurrency to send.
+MetaMask will calculate the gas fee required for the transaction.
+Click Next, review the transaction, and then click Confirm.
+You will see the transaction in the Activity tab of MetaMask. You can also track it on a block explorer like Etherscan.
+6. Interacting with DApps (Decentralized Applications):
+MetaMask allows you to interact with decentralized applications (DApps) on the Ethereum network and other blockchains.
+
+Example of Interaction:
+
+Visit a DApp like Uniswap or Aave.
+Connect your MetaMask wallet by clicking Connect Wallet on the DApp's interface.
+Once connected, you can interact with the DApp (e.g., swap tokens, lend/borrow crypto).
+Every interaction on a DApp requires a transaction on the blockchain, which will consume gas (transaction fees).
+7. Understanding Transaction Fees (Gas Fees):
+When sending cryptocurrency or interacting with smart contracts, you will pay gas fees. These fees are paid in Ether (ETH) on the Ethereum network. Gas fees fluctuate based on network demand.
+
+Gas Price: The amount you're willing to pay for each unit of gas (measured in gwei).
+Gas Limit: The maximum amount of gas you're willing to spend for the transaction.
+MetaMask automatically suggests a gas fee based on current network conditions, but you can adjust it if needed.
+
+8. Security Tips:
+Never share your private keys or recovery phrase with anyone. These give full access to your wallet.
+Be cautious of phishing websites and always double-check you're using official sites when interacting with DApps.
+Enable two-factor authentication (2FA) on exchange platforms when withdrawing funds to MetaMask.
+
+Wallet_addrss = 0x29c90706a5fE86fd690798cAA1d9487272F60872
