@@ -1,0 +1,70 @@
+Problem Statement:
+Installation of MetaMask and Study of Spending Ether per Transaction
+
+In this practical, you will:
+
+Install the MetaMask wallet to interact with Ethereum or other compatible blockchain networks.
+Understand how to spend Ether for transactions using MetaMask.
+Observe the gas fees (Ether spending) required for performing transactions.
+Step-by-Step Process:
+1. Install MetaMask Wallet:
+MetaMask is a browser extension that allows users to interact with Ethereum-based applications directly from the browser. Follow these steps to install MetaMask:
+
+Steps:
+
+Open a web browser (preferably Google Chrome, Brave, or Firefox).
+Visit the official MetaMask website: MetaMask Website
+Click on Download and choose the appropriate version for your browser.
+Once installed, MetaMask will appear as an extension in your browser toolbar.
+2. Set Up MetaMask:
+After installation, set up your wallet:
+
+Open the MetaMask extension by clicking on the MetaMask icon in the toolbar.
+Click Get Started.
+Select Create a Wallet and follow the instructions.
+You will be given a secret recovery phrase. Save it securely! This is the only way to recover your wallet.
+Set a strong password for the wallet.
+3. Connect MetaMask to a Test Network:
+Ether (ETH) on the main Ethereum network has real-world value. For testing, we will use test networks (e.g., Goerli or Ropsten) to interact without spending real ETH.
+
+Steps:
+
+Open MetaMask and click on the network dropdown (usually says "Ethereum Mainnet" by default).
+Select Goerli Test Network or Ropsten Test Network. If you don't see it, enable it by:
+Click on Settings (in MetaMask).
+Go to Advanced Settings and enable Show Test Networks.
+Return to the network dropdown and select Goerli Test Network or any other test network.
+4. Get Free Test Ether:
+On test networks, you can get free Ether using faucets:
+
+Search for Goerli Faucet or Ropsten Faucet on a search engine.
+Enter your MetaMask wallet address on the faucet page to request free test ETH.
+After a few minutes, check your MetaMask balance to see the test ETH credited.
+5. Send Ether (Test ETH) from MetaMask:
+Now that you have test ETH in your wallet, you can send Ether to another account or smart contract. Follow these steps to send a transaction:
+
+Steps:
+
+Click on Send in MetaMask.
+Enter the recipient's wallet address (you can send to another account or a friend on the same test network).
+Enter the amount of Ether (e.g., 0.1 ETH).
+MetaMask will show an estimated gas fee, which is the fee you pay for the transaction.
+Click Next and then Confirm to send the transaction.
+6. Study Gas Fees for Transactions:
+Every transaction on the Ethereum blockchain requires gas, which is paid in Ether. The gas fee depends on two factors:
+
+Gas Limit: The maximum amount of gas you are willing to spend for the transaction.
+Gas Price: The price per unit of gas, which fluctuates based on network demand.
+MetaMask automatically estimates the gas fee for you. Once the transaction is complete, you can:
+
+Check the transaction details by clicking on the Activity tab in MetaMask.
+View the transaction on a block explorer (like Etherscan) to see the exact gas used and the total cost.
+Example:
+
+If you send 0.1 ETH and the gas fee is 0.002 ETH, the total amount deducted from your account will be 0.102 ETH.
+7. Observe Gas Fees for Smart Contract Interactions:
+Interacting with smart contracts (like deploying contracts or calling contract functions) requires more computational resources, so these transactions will have higher gas fees compared to simple Ether transfers.
+
+Deploy a smart contract (like the student data contract you created earlier).
+After deploying, check the gas fee spent on MetaMask or Etherscan.
+When you call functions (like adding a student), observe the gas fees for these operations.
